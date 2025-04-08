@@ -573,7 +573,7 @@ section{
 
 
 .footer{
-    background: url(footer.jpg) no-repeat;
+    background: url(assets/footer.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }

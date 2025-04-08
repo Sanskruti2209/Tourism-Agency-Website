@@ -29,13 +29,13 @@
 </section>
 
 <!-- header section ends  -->
-<div class="heading" style="background:url(home_about_img_1.jpg) no-repeat">
+<div class="heading" style="background:url(assets/home_about_img_1.jpg) no-repeat">
     <h1>About Us</h1>
 </div>
 <!-- about section starts  -->
 <section class="about">
     <div class="image">
-        <img src="home_about_img.jpg" alt="">
+        <img src="assets/home_about_img.jpg" alt="">
     </div>
 
     <div class="content">
@@ -77,7 +77,7 @@
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus, repellat?</p>
             <h3>John Deo</h3>
             <span>Traveller</span>
-            <img src="man-1.jpg" alt="">
+            <img src="assets/man-1.jpg" alt="">
         </div>
 
         <div class="swiper-slider slide">
@@ -90,7 +90,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio exercitationem quam expedita nobis eligendi? Maxime.</p>
             <h3>Joe Smith</h3>
             <span>Traveller</span>
-            <img src="man-2.jpg" alt="">
+            <img src="assets/man-2.jpg" alt="">
         </div>
 
         <div class="swiper-slider slide">
@@ -103,7 +103,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora nobis ullam alias!</p>
             <h3>James Wade</h3>
             <span>Traveller</span>
-            <img src="man-3.jpg" alt="">
+            <img src="assets/man-3.jpg" alt="">
         </div>
 
         <div class="swiper-slider slide">
@@ -117,7 +117,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, velit placeat ratione saepe odit amet minus.</p>
             <h3>Georgia Davis</h3>
             <span>Traveller</span>
-            <img src="woman-1.jpg" alt="">
+            <img src="assets/woman-1.jpg" alt="">
         </div>
 
         <div class="swiper-slider slide">
@@ -131,7 +131,7 @@
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium eveniet quam deserunt dolorum.</p>
             <h3>Olivia Wilson</h3>
             <span>Traveller</span>
-            <img src="woman-2.jpg" alt="">
+            <img src="assets/woman-2.jpg" alt="">
         </div>
 
         <div class="swiper-slider slide">
@@ -146,7 +146,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis reprehenderit adipisci illum nulla!</p>
             <h3>Noah Miller</h3>
             <span>Traveller</span>
-            <img src="woman-3.jpg" alt="">
+            <img src="assets/woman-3.jpg" alt="">
         </div>
 
 

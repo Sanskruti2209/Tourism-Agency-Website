@@ -29,7 +29,7 @@
 </section>
 
 <!-- header section ends  -->
-<div class="heading" style="background:url(packages_bg_img_1.jpg) no-repeat">
+<div class="heading" style="background:url(assets/packages_bg_img_1.jpg) no-repeat">
     <h1>Packages</h1>
 </div>
 
@@ -41,7 +41,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-1.jpg" alt="">
+                <img src="assets/p-1.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Lakshadweep</h3>
@@ -52,7 +52,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-2.avif" alt="">
+                <img src="assets/p-2.avif" alt="">
             </div>
             <div class="content">
                 <h3>India</h3>
@@ -63,7 +63,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-3.jpg" alt="">
+                <img src="assets/p-3.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Australia</h3>
@@ -74,7 +74,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-4.avif" alt="">
+                <img src="assets/p-4.avif" alt="">
             </div>
             <div class="content">
                 <h3>Italy</h3>
@@ -85,7 +85,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-5.jpg" alt="">
+                <img src="assets/p-5.jpg" alt="">
             </div>
             <div class="content">
                 <h3>United Kingdom</h3>
@@ -96,7 +96,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-6.jpg" alt="">
+                <img src="assets/p-6.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Japan</h3>
@@ -107,7 +107,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-7.jpg" alt="">
+                <img src="assets/p-7.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Singapore</h3>
@@ -118,7 +118,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-8.jpg" alt="">
+                <img src="assets/p-8.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Germany</h3>
@@ -129,7 +129,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-9.jpg" alt="">
+                <img src="assets/p-9.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Switzerland</h3>
@@ -140,7 +140,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-10.jpg" alt="">
+                <img src="assets/p-10.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Greece</h3>
@@ -151,7 +151,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-11.jpg" alt="">
+                <img src="assets/p-11.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Russia</h3>
@@ -162,7 +162,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-12.jpg" alt="">
+                <img src="assets/p-12.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Austria</h3>
@@ -175,15 +175,6 @@
     <div class="load-more"><span class="btn">Load More</span></div>
 </section>
 <!-- packages section ends -->
-
-
-
-
-
-
-
-
-
 
 <section class="footer">
     <div class="box-container">

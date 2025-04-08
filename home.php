@@ -15,7 +15,6 @@
 <body>
 <!-- header section starts -->
 
-
 <section class="header">
     <a href="home.php" class="logo">Befikre Travels</a>
 
@@ -35,7 +34,7 @@
 <section class="home">
     <div class="swiper home-slider">
         <div class="swiper-wrapper">
-            <div class="swiper-slide slide" style="background:url(home_img_1.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(assets/home_img_1.jpg) no-repeat">
             <div class="content">
                 <span>Explore, Discover, Travel</span>
                 <h3>Travel around the world</h3>
@@ -46,7 +45,7 @@
        
 
     
-            <div class="swiper-slide slide" style="background:url(home_img_2.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(assets/home_img_2.jpg) no-repeat">
             <div class="content">
                 <span>Explore, Discover, Travel</span>
                 <h3>Discover new places</h3>
@@ -57,7 +56,7 @@
        
     
     
-            <div class="swiper-slide slide" style="background:url(home_img_3.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(assets/home_img_3.jpg) no-repeat">
             <div class="content">
                 <span>Explore, Discover, Travel</span>
                 <h3>Make your tour worthwhile</h3>
@@ -81,32 +80,32 @@
 
     <div class="box-container">
         <div class="box">
-            <img src="mountains_193189.png" alt="">
+            <img src="assets/mountains_193189.png" alt="">
             <h3>Adventure</h3>
         </div>
 
         <div class="box">
-            <img src="address.png" alt="">
+            <img src="assets/address.png" alt="">
             <h3>Tour Guide</h3>
         </div>
 
         <div class="box">
-            <img src="luggage_7997756.png" alt="">
+            <img src="assets/luggage_7997756.png" alt="">
             <h3>Trekking</h3>
         </div>
 
         <div class="box">
-            <img src="bonfire_7591361.png" alt="">
+            <img src="assets/bonfire_7591361.png" alt="">
             <h3>Campfire</h3>
         </div>
 
         <div class="box">
-            <img src="direction_4869839.png" alt="">
+            <img src="assets/direction_4869839.png" alt="">
             <h3>Offroad</h3>
         </div>
 
         <div class="box">
-            <img src="camp.png" alt="">
+            <img src="assets/camp.png" alt="">
             <h3>Camping</h3>
         </div>
 
@@ -119,7 +118,7 @@
 
 <section class="home-about">
     <div class="image">
-        <img src="home_about_img.jpg" alt="">
+        <img src="assets/home_about_img.jpg" alt="">
     </div>
 
     <div class="content">
@@ -139,7 +138,7 @@
     <div class="box-container">
         <div class="box">
             <div class="image">
-                <img src="p-1.jpg" alt="">
+                <img src="assets/p-1.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Adventure and Tour</h3>
@@ -150,7 +149,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-2.avif" alt="">
+                <img src="assets/p-2.avif" alt="">
             </div>
             <div class="content">
                 <h3>Adventure and Tour</h3>
@@ -161,7 +160,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="p-3.jpg" alt="">
+                <img src="assets/p-3.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Adventure and Tour</h3>
@@ -224,7 +223,6 @@
 </section>
 
 <!-- footer section ends -->
-
 
 <!-- swiper js link -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>

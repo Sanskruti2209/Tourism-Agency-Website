@@ -14,7 +14,6 @@
 </head>
 <body>
 
-
 <section class="header">
     <a href="home.php" class="logo">Befikre Travels</a>
 
@@ -28,7 +27,7 @@
     <div id="menu-btn" class="fas fa-bars"></div>
 </section>
 
-<div class="heading" style="background:url(book_form_img.jpg) no-repeat">
+<div class="heading" style="background:url(assets/book_form_img.jpg) no-repeat">
     <h1>Book Now</h1>
 </div>
 
@@ -113,7 +112,6 @@
 </section>
 
 <!-- footer section ends -->
-
 
 <!-- swiper js link -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
